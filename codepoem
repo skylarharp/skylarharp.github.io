@@ -1,23 +1,27 @@
-<html> 
-<head> the calm app <head>
-<body>
-.digital (utopia) {
-	non.existent = inequality, 
-	irrelevant = difference, 
-	intrinsically = non-political, 
-  }
-<div>
-*// rely and depend on your device
-</div>
+{ 
+  "string":  "the calm app",
+ 
+"digitalutopia": "means",
+	"nonexistent": "inequality", 
+	"irrelevant": "difference", 
+	"object": "intrinsically nonpolitical", 
+"array": ["rely", "and", "depend", "on", "your", "device"],
+"race": "null",
+"backgroundinfo" : "whocares (null)",
+"class" : ["error"],
 
-race= rgb (null)
-class = .error
-background.info = whocares (null)
+"string": "yourownproblemsandcrises",
+	"object":  "can be solved",
+	"object": "if you download this app",
+	"object": "never delete it and keep your streak up",
 
-.yourownproblemsandcrises {
-	= can be solved,
-	= if you download this app,
-	=never delete it and keep your streak up
+"Feel better yet?": null,
+"boolean": true,
+  "boolean": false,
+  
 }
-<a> Feel better yet? <a>
-<body>
+
+
+
+
+
